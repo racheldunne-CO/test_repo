@@ -5,6 +5,9 @@ output: html_notebook
 
 Making some changes for R to pull. These are my conflicting changes 
 
+This is a change.
+
+
 ```{r}
 plot(cars)
 ```
