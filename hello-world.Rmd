@@ -3,7 +3,8 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-Making some different changes to Charlotte for R to pull
+Making some changes for R to pull. These are my conflicting changes 
+
 
 ```{r}
 plot(cars)
